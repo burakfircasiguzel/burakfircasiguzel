@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Burak. </h1>
 
-<p align="center"> Java / Java GUI / Spring Boot 7 Java Server Faces (JSF)</p>
-<a href="https://github.com/burakfircasiguzel/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=burakfircasiguzel&style=for-the-badge">
-</a>
+<p align="center"> Java / Java GUI / Spring Boot / Java Server Faces (JSF)</p>
+<center>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakfircasiguzel/) [![image]</center>
+
+
+
 <!--
 **burakfircasiguzel/burakfircasiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
