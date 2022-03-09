@@ -1,11 +1,9 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Burak. </h1>
 
-<p align="center"> Java / Java GUI / Spring Boot / Java Server Faces (JSF)</p>
+### <p align="center"> Java / Java GUI / Spring Boot / Java Server Faces (JSF)</p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardilozantekin/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@ozantekin.dev) [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ozantekin.dev/) 
-
-
-
+#### <p align="center">You can find me on:  <br> <br>   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/burakfircasiguzel/)
+</p>
 <!--
 **burakfircasiguzel/burakfircasiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
