@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Burak. </h1>
 
 <p align="center"> Java / Java GUI / Spring Boot / Java Server Faces (JSF)</p>
-<center>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakfircasiguzel/) [![image]</center>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakfircasiguzel/) 
 
 
 
