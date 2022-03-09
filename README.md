@@ -2,7 +2,9 @@
 
 <!--
 **burakfircasiguzel/burakfircasiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=burakfircasiguzel)
+<a href="https://github.com/burakfircasiguzel/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=burakfircasiguzel&style=for-the-badge">
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
