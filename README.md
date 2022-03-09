@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-<!--
-**burakfircasiguzel/burakfircasiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://github.com/burakfircasiguzel/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=burakfircasiguzel&style=for-the-badge">
 </a>
+<!--
+**burakfircasiguzel/burakfircasiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
