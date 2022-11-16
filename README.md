@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Burak. </h1>
 
-### <p align="center"> Java / Java GUI / Spring Boot / Java Server Faces (JSF)</p>
+### <p align="center"> Java / Java GUI / React JS / Spring Boot / Java Server Faces (JSF)</p>
 
 #### <p align="center">You can find me on:  <br> <br>   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/burakfircasiguzel/)
 </p>
